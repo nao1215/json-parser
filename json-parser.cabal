@@ -5,12 +5,12 @@ version:             0.1.0.0
 -- synopsis:
 -- description:
 homepage:            https://github.com/nao1215/json-parser#readme
-license:             BSD-3-Clause
+license:             MIT
 license-file:        LICENSE
 author:              Naohiro CHIKAMATSU
 maintainer:          n.chika156@gmail.com
 copyright:           2025 Naohiro CHIKAMATSU
-category:            Web
+category:            JSON
 build-type:          Simple
 extra-source-files:  README.md
                      CHANGELOG.md
